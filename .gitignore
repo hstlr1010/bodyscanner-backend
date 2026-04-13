@@ -1,0 +1,14 @@
+.env
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+bodyscanner.db
+meshes/
+checkpoints/
+*.ckpt
+*.pt
+*.pth
